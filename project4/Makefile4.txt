@@ -1,5 +1,0 @@
-a.out: merge.cpp
-		g++ merge.cpp
-
-clean:
-		rm -rf *.exe *.o *.out
